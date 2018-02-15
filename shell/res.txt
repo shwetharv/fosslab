@@ -1,0 +1,7 @@
+Currently logged user and his logname : exam
+Current Shell:/bin/bash
+Home directory:/home/exam
+OS Type : i686
+Path setting:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/exam
+Present Working Directory:/home/exam/csu16255/shell
+Currently logged number of users: exam exam
