@@ -1,0 +1,65 @@
+Enter one no.
+9
+Enter second no.
+5
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+1
+Sum is = 14
+Do u want to continue ?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+2
+Difference is = 4
+Do u want to continue ?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+3
+Product is = 45
+Do u want to continue ?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+4
+Quotient is = 1
+Do u want to continue ?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+5
+Remainder is = 4
+Do u want to continue ?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+6
+Invalid choice
+Do u want to continue ?
+n
+
